@@ -1,7 +1,3 @@
-# lms-assessment
-
-A Next.js and Supabase full-stack LMS feature allowing students to log in, view a dashboard of upcoming lessons, and mark lessons as complete. Completed as part of a practical take-home assessment.
-
 # Student Lessons - Full Stack Feature
 
 This project is a simplified LMS feature built for the Stage 2 take-home assessment.  
@@ -18,8 +14,8 @@ It allows a student to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ADNANPASHA217/lms-assessment.git
-cd lms-assessment
+git clone <your-repo-url>
+cd student-lessons
 ```
 
 ### 2. Install Dependencies
