@@ -38,6 +38,8 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJz
 ### 4. Project Structure
 
 student-lessons/
+├── db/│
+│ └── full_dump.sql
 ├── src/
 │ ├── app/
 │ │ ├── login/ # Login page
@@ -46,8 +48,6 @@ student-lessons/
 │ ├── lib/
 │ │ └── supabaseClient.ts # Supabase client setup
 │ └── globals.css
-├── db/│
-│ └── sample_data.sql # Example data
 ├── public/
 ├── .env.local
 ├── package.json
